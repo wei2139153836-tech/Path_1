@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AI算命师/AI算命师.vcxproj" Id="967d4b2a-b3c8-412f-a4ab-880950c37dd3" />
+</Solution>
