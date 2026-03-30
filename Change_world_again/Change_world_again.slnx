@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Change_world_again/Change_world_again.vcxproj" Id="71bac696-1433-43ac-9516-6187dabcc959" />
+</Solution>
