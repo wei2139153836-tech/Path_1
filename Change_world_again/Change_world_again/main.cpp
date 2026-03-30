@@ -21,7 +21,7 @@ int main() {
 	printf("%f\n", c);
 
 	long double d;
-	d = 3.141592653589793238;
+	d = 3.1415926;
 	printf("%Lf\n", d);
 
 	bool e = 1;
